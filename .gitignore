@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+*.arrow
+
+venv/
+.medimind/
+.env
+
+.DS_Store
